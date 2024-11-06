@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Page xmlns="http://schemas.nativescript.org/tns.xsd">
+    <ActionBar title="Main App" />
+    <StackLayout>
+        <!-- Your main app UI components go here -->
+        <Label 
+            text="Welcome to the Main App!" 
+            class="h1" 
+            horizontalAlignment="center" 
+            verticalAlignment="middle"/>
+    </StackLayout>
+</Page>
